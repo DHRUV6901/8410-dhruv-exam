@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main()
+{
+    char opretor;
+    double num1,num2,result;
+
+    printf("enter first number:");
+    scanf("%f ,num1");
+    printf("enter second number:");
+    scanf("%f ,num2");
+    printf("")
+
+    
+}
